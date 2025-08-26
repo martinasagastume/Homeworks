@@ -1,4 +1,4 @@
-# Homework_Transformer
+# Homeworks
 Jupyter notebook showcasing different applications of Transformer architectures in NLP and beyond.
 # Applications of Transformers
 
